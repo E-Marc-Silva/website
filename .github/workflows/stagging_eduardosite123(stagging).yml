@@ -31,5 +31,5 @@ jobs:
         uses: azure/webapps-deploy@v3
         with:
           app-name: 'EduardoSite123'
-          slot-name: 'staging'
+          slot-name: 'stagging'
           package: .
